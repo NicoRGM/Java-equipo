@@ -10,5 +10,12 @@ package CLases;
  * @author MegaTecnologia
  */
 public class Perro {
+    private String nombre;
+    private String tamanio;
+    private Integer edad;
+    private String raza;
+    private String color;
+            
     
+            
 }
